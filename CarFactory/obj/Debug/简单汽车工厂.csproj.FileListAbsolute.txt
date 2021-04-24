@@ -1,0 +1,7 @@
+C:\Users\黄芪炜\Desktop\简单工厂\简单汽车工厂\bin\Debug\简单汽车工厂.exe.config
+C:\Users\黄芪炜\Desktop\简单工厂\简单汽车工厂\bin\Debug\简单汽车工厂.exe
+C:\Users\黄芪炜\Desktop\简单工厂\简单汽车工厂\bin\Debug\简单汽车工厂.pdb
+C:\Users\黄芪炜\Desktop\简单工厂\简单汽车工厂\obj\Debug\简单汽车工厂.csprojAssemblyReference.cache
+C:\Users\黄芪炜\Desktop\简单工厂\简单汽车工厂\obj\Debug\简单汽车工厂.csproj.CoreCompileInputs.cache
+C:\Users\黄芪炜\Desktop\简单工厂\简单汽车工厂\obj\Debug\简单汽车工厂.exe
+C:\Users\黄芪炜\Desktop\简单工厂\简单汽车工厂\obj\Debug\简单汽车工厂.pdb
