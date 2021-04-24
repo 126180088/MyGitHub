@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("NvwaFactory")]
+[assembly: AssemblyTitle("简单汽车工厂")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("NvwaFactory")]
+[assembly: AssemblyProduct("简单汽车工厂")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-[assembly: Guid("2207d9fe-e56f-4960-86d7-0383ee695c32")]
+[assembly: Guid("c4e8f9e1-f4e5-4d50-ac65-0c02564679ef")]
 
 // 程序集的版本信息由下列四个值组成: 
 //

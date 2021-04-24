@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2207D9FE-E56F-4960-86D7-0383EE695C32}</ProjectGuid>
+    <ProjectGuid>{C4E8F9E1-F4E5-4D50-AC65-0C02564679EF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>NvwaFactory</RootNamespace>
-    <AssemblyName>NvwaFactory</AssemblyName>
+    <RootNamespace>简单汽车工厂</RootNamespace>
+    <AssemblyName>简单汽车工厂</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -42,13 +42,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Man.cs" />
-    <Compile Include="Nvwa.cs" />
-    <Compile Include="Person.cs" />
+    <Compile Include="ACar.cs" />
+    <Compile Include="BenzCar.cs" />
+    <Compile Include="BenzFactory.cs" />
+    <Compile Include="BMWCar.cs" />
+    <Compile Include="BMWFactory.cs" />
+    <Compile Include="ICar.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Robot.cs" />
-    <Compile Include="Woman.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
