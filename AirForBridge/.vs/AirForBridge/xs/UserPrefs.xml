@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{512018CE-42F0-40EB-A3C2-3EE2023D9E9E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AirForBridge/Code/APlaneMakers.cs">
+    <Files>
+      <File FileName="AirForBridge/Program.cs" Line="20" Column="10" />
+      <File FileName="AirForBridge/Code/APlaneMakers.cs" Line="7" Column="4" />
+      <File FileName="AirForBridge/Code/IPlane.cs" Line="12" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AirForBridge" expanded="True">
+            <Node name="AirForBridge" expanded="True">
+              <Node name="Code" expanded="True">
+                <Node name="APlaneMakers.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AirForBridge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
