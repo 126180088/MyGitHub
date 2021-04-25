@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{C8BF5BF4-F676-45A4-B118-6E98B983EC62}|Default">
+  <MonoDevelop.Ide.ItemProperties.ImageForBridge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ImageForBridge/Program.cs">
+    <Files>
+      <File FileName="ImageForBridge/Program.cs" Line="24" Column="37" />
+      <File FileName="ImageForBridge/ImageForBridge/ASystem.cs" Line="16" Column="20" />
+      <File FileName="ImageForBridge/ImageForBridge/app.config" Line="5" Column="49" />
+      <File FileName="ImageForBridge/ImageForBridge/Gif.cs" Line="18" Column="34" />
+      <File FileName="ImageForBridge/ImageForBridge/Jpg.cs" Line="22" Column="34" />
+      <File FileName="ImageForBridge/ImageForBridge/Png.cs" Line="19" Column="40" />
+      <File FileName="ImageForBridge/ImageForBridge/Windows.cs" Line="14" Column="23" />
+      <File FileName="ImageForBridge/ImageForBridge/Unix.cs" Line="14" Column="13" />
+      <File FileName="ImageForBridge/ImageForBridge/Linux.cs" Line="14" Column="24" />
+      <File FileName="ImageForBridge/ImageForBridge/IIamge.cs" Line="1" Column="1" />
+      <File FileName="ImageForBridge/ImageForBridge/Matrix.cs" Line="13" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ImageForBridge" expanded="True">
+            <Node name="ImageForBridge" expanded="True">
+              <Node name="ImageForBridge" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">anycpu</Platform>
+    <ProjectGuid>{C8BF5BF4-F676-45A4-B118-6E98B983EC62}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>ImageForBridge</RootNamespace>
+    <AssemblyName>ImageForBridge</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|anycpu' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ExternalConsole>true</ExternalConsole>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|anycpu' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ExternalConsole>true</ExternalConsole>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ImageForBridge\ASystem.cs" />
+    <Compile Include="ImageForBridge\Gif.cs" />
+    <Compile Include="ImageForBridge\IIamge.cs" />
+    <Compile Include="ImageForBridge\Jpg.cs" />
+    <Compile Include="ImageForBridge\Linux.cs" />
+    <Compile Include="ImageForBridge\Matrix.cs" />
+    <Compile Include="ImageForBridge\Png.cs" />
+    <Compile Include="ImageForBridge\Unix.cs" />
+    <Compile Include="ImageForBridge\Windows.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ImageForBridge\app.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>
