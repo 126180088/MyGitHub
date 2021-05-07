@@ -16,6 +16,15 @@ namespace ScoreOperate
 
 
         /// <summary>
+        /// 实例化
+        /// </summary>
+        public Adapter()
+        {
+            sortObj = new ScoreLibs.QuickSortClass();
+            searchObj = new BinarySearchClass();
+        }
+
+        /// <summary>
         /// 排序
         /// </summary>
         public int[] Sort(int[] Number)
@@ -43,14 +52,7 @@ namespace ScoreOperate
             return result;
         }
 
-        /// <summary>
-        /// 实例化
-        /// </summary>
-        public void AdapterOp()
-        {
-            sortObj = new QuickSortClass();
-            searchObj = new BinarySearchClass();
-        }
+        
 
     }
 }

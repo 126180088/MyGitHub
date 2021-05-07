@@ -4,8 +4,8 @@
     <Files>
       <File FileName="ScoreOperate/Program.cs" Line="22" Column="29" />
       <File FileName="ScoreOperate/Adapter.cs" Line="39" Column="29" />
-      <File FileName="ScoreOperate/ScoreOperation.cs" Line="13" Column="15" />
-      <File FileName="ScoreOperate/app.config" Line="1" Column="1" />
+      <File FileName="ScoreOperate/ScoreOperation.cs" />
+      <File FileName="ScoreOperate/app.config" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
