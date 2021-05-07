@@ -21,7 +21,5 @@ namespace ScoreOperate
         /// <param name="Number"></param>
         /// <param name="Sorce"></param>
         bool Search(int[] Number, int Sorce);
-
-        void AdapterOp();
     }
 }

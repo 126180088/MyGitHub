@@ -22,8 +22,6 @@ namespace ScoreOperate
             int score = 100;
             //接受二分查找方法的返回值
             bool relust;
-            //实例化
-            operation.AdapterOp();
             //调用方法排序
             number = operation.Sort(Number);
             //输出数组
