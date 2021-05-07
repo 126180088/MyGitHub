@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoreOperate", "ScoreOperate\ScoreOperate.csproj", "{735E7466-BD08-402E-9699-19B25BB224DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{735E7466-BD08-402E-9699-19B25BB224DC}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{735E7466-BD08-402E-9699-19B25BB224DC}.Debug|anycpu.Build.0 = Debug|anycpu
+		{735E7466-BD08-402E-9699-19B25BB224DC}.Release|anycpu.ActiveCfg = Release|anycpu
+		{735E7466-BD08-402E-9699-19B25BB224DC}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2BE7D1D-D9F5-4CE2-9C5F-02FEA3AF6D0A}
+	EndGlobalSection
+EndGlobal
